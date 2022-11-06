@@ -1,3 +1,6 @@
+# James Green
+## Former IT Professional, Current Artist and Hobby Coder
+
 - 👋 Hi, I’m @jamesgreen311
 - 👀 I’m interested in all things art related
 - 🌱 I’m currently learning Astro
