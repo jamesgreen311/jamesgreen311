@@ -1,6 +1,6 @@
 # James Green
 ## Former IT Professional, Current Artist and Hobby Coder
-Owner of [Walking on the Edge Studio](https://www.walkingontheedge.studio)
+Owner of [Walking on the Edge Studio](https://www.walkingontheedgestudio.com/)
 
 - 👋 Hi, I’m @jamesgreen311
 - 👀 I’m interested in all things art related
